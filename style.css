@@ -85,4 +85,33 @@ body {
 
 .toggle-left{
     left: 0 !important;
+    width: 1000px !important;
 }
+
+/* site-main */
+
+.site-banner .banner-area{
+    background: url(./) no-repeat;
+    background-size:cover;
+    width:100%;
+    height:100vh;
+    position: relative:
+}
+
+.sitebanner .bannerarea .author{
+    margin:0;
+    position:absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.sitebanner .bannerarea .author .authorimg{
+    width:200px;
+    height:200px;
+    border-radius: 50%;
+    margin: auto;
+    background: url(/assets/) no-repeat
+}
+
+/* site-main */
